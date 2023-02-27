@@ -1,26 +1,25 @@
 ---
-layout: about 
+layout: about
 ---
-
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+
+我是清华大学深圳国际研究生院的学生，我的研究兴趣是计算机和医疗交叉方向.
 
 <br/>
 
+# 技能
+  * Python,pytorch,Linux,C++
 # Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+
+* Tsinghua University(2021/07 ~ )
+  * 医疗NLP
+* Xi'an University of Technology (2013/08 ~ 2017/9)
+  * 水下机器人
 
 <br/>
 
 # Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+
+I am interested in technology trends.
+I'm not afraid to learn languages, but I enjoy using Python.
+I like to automate and reduce annoying things.
