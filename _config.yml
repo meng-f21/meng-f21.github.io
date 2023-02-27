@@ -1,6 +1,6 @@
 # Site settings
 title: Meng Fei
-baseurl: "/meng-f21"
+baseurl: ""
 url: "https://meng-f21.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
