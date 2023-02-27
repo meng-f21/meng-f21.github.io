@@ -57,4 +57,3 @@ exclude:
   - "Gemfile"
   - "Gemfile.lock"
   - "*.gem"
-  - "LICENSE"
